@@ -7,6 +7,7 @@ U-Food es una aplicación web, desarrollado en Java, está diseñado para facili
 **Comensales:**
 
 - Calificar restaurantes con estrellas y un comentario.
+    - Votar calificaciones de otros comensales y ordenar según cantidad de votos.
 - Comparar dos restaurantes entre sí con base en atributos como precio, distancia a la universidad, entre otros.
 - Filtrar restaurantes usando atributos representativos (tipo de comida, horarios, precios, etc.) y guardar dichos filtros como "preferencias" para futuras consultas.
 - Recibir notificaciones sobre la publicación del menú del día actual del restaurante suscrito.

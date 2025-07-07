@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="U-Food">
+    <output-path>$PROJECT_DIR$/out/artifacts/U_Food</output-path>
+    <root id="root">
+      <element id="archive" name="U_Food.jar">
+        <element id="module-output" name="U-Food" />
+      </element>
+    </root>
+  </artifact>
+</component>

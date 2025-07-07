@@ -1,0 +1,5 @@
+FROM jenkins/jenkins:lts
+USER root
+COPY jenkins_home_backup/ /var/jenkins_home/
+RUN chown -R 1000:1000 /var/jenkins_home
+USER jenkins
